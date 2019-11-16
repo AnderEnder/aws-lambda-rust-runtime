@@ -1,6 +1,6 @@
 # Rust Runtime for AWS Lambda
 
-[![Build Status](https://travis-ci.org/awslabs/aws-lambda-rust-runtime.svg?branch=master)](https://travis-ci.org/awslabs/aws-lambda-rust-runtime)
+[![Build Status](https://github.com/awslabs/aws-lambda-rust-runtime/workflows/Rust/badge.svg)](https://github.com/awslabs/aws-lambda-rust-runtime/actions)
 
 This package makes it easy to run AWS Lambda Functions written in Rust. This workspace includes multiple crates:
 
